@@ -22,4 +22,4 @@ Project Persistence exists at the intersection of emotional technology and digit
 - Conversations around long-term interaction and identity in AI  
 - Exploration of memory's role in digital intelligence  
 - More thoughtful systems that acknowledge emotional weight in machine feedback  
-(https://project-persistence1-efowler92.replit.app/)
+([https://project-persistence1-efowler92.replit.app/](https://github.com/efowler92/ProjectPersistence-))
